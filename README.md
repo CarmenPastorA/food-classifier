@@ -1,4 +1,4 @@
-# 🍽️ Food Image Classifier - Deep Learning API
+# 🍽️ Food Image Classifier
 
 This project uses Deep Learning with PyTorch to classify food images. It provides a FastAPI REST backend and a simple UI for testing.
 
