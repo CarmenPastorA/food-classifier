@@ -11,6 +11,7 @@ This project uses Deep Learning with PyTorch to classify food images. It provide
 
 ## 📁 Folder Structure
 
+```bash
 food-classifier-api/
 ├── app/                         # Main app logic (API, models, services)
 │   ├── api/                     # FastAPI routes
