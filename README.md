@@ -43,6 +43,7 @@ food-classifier-api/
 ├── .gitignore                   # Ignored files and folders
 ├── README.md                    # Project overview
 └── setup.py                     # Optional for packaging
+```
 
 ## 🚀 Installation
 
